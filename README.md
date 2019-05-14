@@ -1,4 +1,4 @@
-#Breakout Game Overview
+# Breakout Game Overview
 
 This is modeled off the standard "Breakout" game, in which a player 
 controls a paddle that is used to bounce a ball in a 2D confined space.
