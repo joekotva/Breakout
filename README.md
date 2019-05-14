@@ -1,6 +1,5 @@
-========================================================================
+
     Breakout Project Overview
-========================================================================
 
 This is modeled off the standard "Breakout" game, in which a player 
 controls a paddle that is used to bounce a ball in a 2D confined space.
@@ -14,4 +13,4 @@ most points wins.
 Game was made with UnityEngine. The logic for the gameplay are scripts
 stores in Assets/Bricks_Breaker_Game/Scripts/
 
-/////////////////////////////////////////////////////////////////////////////
+
